@@ -23,3 +23,5 @@ This challenge includes many learning objectives for future web developers as th
 
 ## Application link
 
+https://thaling11.github.io/week-1-portfolio/
+

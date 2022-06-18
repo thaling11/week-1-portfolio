@@ -1,3 +1,4 @@
+/* universal */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +26,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Nav bar */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,6 +44,7 @@ body {
     margin-left: 25px;
 }
 
+/* Nav bar link */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +54,7 @@ p {
     font-size: 16px;
 }
 
+/* Focal image */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +63,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Main section */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -101,7 +106,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* start CSS for side panel*/
 .reasonings {
     margin-bottom: 20px;
     padding: 50px;
@@ -120,6 +125,7 @@ p {
     font-size: 36px;
 }
 
+/* footer */
 .footer {
     padding: 30px;
     clear: both;

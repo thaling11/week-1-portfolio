@@ -17,9 +17,7 @@ This challenge includes many learning objectives for future web developers as th
 
 ## Mock Up
 
-![Screenshot-1](./readme-images/horesion1.jpg)
-![Screenshot-2](./readme-images/horesion2.jpg)
-![Screenshot-3](./readme-images/horesion3.jpg)
+![Screenshot-1](./readme-images/thaling11.github.io_week-1-portfolio_%20(2).jpg)
 
 ## Application link
 
